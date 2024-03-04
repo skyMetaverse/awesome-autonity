@@ -43,7 +43,7 @@ Websites, community social media, source code:
 ### Media
 - [Autonity Media Kit](https://github.com/autonity/autonity-media-kit?tab=readme-ov-file)
 
-### Block explorers
+### Explorers
 
 - [Block Explorer for Bakerloo Test Network](https://bakerloo.autonity.org/) (by [Clearmatics](https://www.clearmatics.com/))
 - [Block Explorer for Piccadilly Test Network](https://piccadilly.autonity.org/) (by [Clearmatics](https://www.clearmatics.com/))
