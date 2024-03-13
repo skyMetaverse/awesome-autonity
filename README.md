@@ -69,6 +69,7 @@ Websites, community social media, source code:
 - Public endpoints. Publicly accessible node endpoints (RPC, WebSocket, GraphQL):
   - [Bakerloo Test Network](https://docs.autonity.org/networks/testnet-bakerloo/#public-endpoints)
   - [Piccadilly Test Network](https://docs.autonity.org/networks/testnet-piccadilly/#public-endpoints)
+- [Cax-sdk-nodejs](https://github.com/skyMetaverse/autonity-cax) (by [syskey](https://github.com/skyMetaverse/))
 
 ### Technical Information
 - Autonity's Chain ID registration for [Bakerloo](https://chainlist.org/chain/65010002) and [Piccadilly](https://chainlist.org/chain/65100002) testnets
